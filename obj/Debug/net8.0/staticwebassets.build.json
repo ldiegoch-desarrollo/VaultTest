@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iIHXhg8o1kuXXJfnNu52RyN6I0lQg+b9MfYCn0R7TlA=",
+  "Source": "ContainerAppVault",
+  "BasePath": "_content/ContainerAppVault",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
